@@ -1,0 +1,13 @@
+abc@abc.com 
+cde@yahoo.com 
+joe@npr.org 
+rwq@abc.org 
+dave@gibson.com 
+just"not"right@example.com
+Abc.example.com
+end.............sorted and validated emails after this...........
+abc@abc.com 
+rwq@abc.org 
+dave@gibson.com 
+joe@npr.org 
+cde@yahoo.com 
